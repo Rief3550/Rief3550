@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre]
 
-<!--
-**Rief3550/Rief3550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en construir sistemas reales: APIs, automatización y productos web.
 
-Here are some ideas to get you started:
+## 🚀 Qué hago
+- Desarrollo backends y APIs escalables
+- Automatizo procesos y tareas repetitivas
+- Construyo productos listos para producción
+- Trabajo con enfoque en negocio, no solo código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Stack principal
+- Backend: Python, FastAPI, Node.js
+- Frontend: React, JavaScript
+- Base de datos: PostgreSQL, SQL
+- Herramientas: Docker, Git, Linux
+
+## 📌 Proyectos destacados
+
+### 🔹 [Nombre del proyecto]
+Descripción breve del proyecto.
+
+- Problema: qué resuelve
+- Solución: qué hace
+- Stack: tecnologías usadas
+
+👉 Demo: [link si tienes]
+👉 Repo: [link]
+
+---
+
+### 🔹 [Otro proyecto]
+(lo mismo)
+
+---
+
+## 🎯 Actualmente
+Abierto a:
+- trabajo remoto
+- freelance
+- proyectos interesantes
+
+## 📫 Contacto
+- LinkedIn: [link]
+- Email: [tu email]
