@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="[LINKEDIN]">LinkedIn</a> •
-  <a href="mailto:[EMAIL]">Email</a>
+  <a href="[www.linkedin.com/in/federico-riera]">LinkedIn</a> •
+  <a href="mailto:[rierafederico30.4857@gmail.com]">Email</a>
 </p>
 
 ---
