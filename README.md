@@ -16,8 +16,7 @@
 
 ## 🚀 About me
 
-I design and build complete software systems — from idea to production.
-
+I design and deliver end-to-end software products, covering frontend, backend, infrastructure and cloud deployment.
 Focused on backend engineering, system architecture and modern infrastructure, I create scalable, maintainable and high-performance solutions.
 
 I don’t just code — I deliver full products aligned with real business needs.
