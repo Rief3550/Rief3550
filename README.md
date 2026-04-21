@@ -8,8 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/federico-riera]">LinkedIn</a> •
-  <a href="mailto:[rierafederico30.4857@gmail.com]">Email</a>
+  <a href="[www.linkedin.com/in/federico-riera]">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> •
+  <a href="mailto:[rierafederico30.4857@gmail.com]">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
