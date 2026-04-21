@@ -8,11 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/federico-riera]">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> •
-  <a href="mailto:[rierafederico30.4857@gmail.com]">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://www.linkedin.com/in/federico-riera" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rierafederico30.4857@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
   </a>
 </p>
 
@@ -21,6 +22,7 @@
 ## 🚀 About me
 
 I design and deliver end-to-end software products, covering frontend, backend, infrastructure and cloud deployment.
+
 Focused on backend engineering, system architecture and modern infrastructure, I create scalable, maintainable and high-performance solutions.
 
 I don’t just code — I deliver full products aligned with real business needs.
@@ -75,22 +77,34 @@ I don’t just code — I deliver full products aligned with real business needs
 ## 🧰 Tech Stack
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,nest,adonis,python,fastapi)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,adonis,python,fastapi,ts" />
+</p>
 
 ### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,next,angular,vue)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,astro,vue,angular" />
+</p>
 
 ### 📱 Mobile
-[![Mobile](https://skillicons.dev/icons?i=kotlin,flutter)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter" />
+</p>
 
 ### 🗄️ Databases
-[![DB](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
 
 ### ☁️ Infra & DevOps
-[![Infra](https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,cloudflare,grafana" />
+</p>
 
 ### 🛠️ Tooling
-[![Tools](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,figma" />
+</p>
 
 ---
 
@@ -104,13 +118,15 @@ I don’t just code — I deliver full products aligned with real business needs
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rief3550&theme=github-dark&hide_border=true"/>
 </p>
+
 ---
 
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[TU_USUARIO]&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=Rief3550&theme=github-dark&hide_border=true" />
 </p>
+
 ---
 
 ## 🧩 Architecture mindset
@@ -144,5 +160,5 @@ Open to:
 
 ## 📫 Contact
 
-- LinkedIn: [www.linkedin.com/in/federico-riera]
-- Email: [rierafederico30.4857@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/federico-riera
+- Email: rierafederico30.4857@gmail.com
